@@ -1,0 +1,12 @@
+venv_x64/
+venv_x86/
+tests/
+*.txt
+*.csv
+*.xls
+*.xlsx
+*.json
+*.jpeg
+*.jpg
+*.png
+*.ipynb
